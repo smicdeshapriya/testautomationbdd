@@ -1,0 +1,6 @@
+"property","delay"
+"order_apply","30"
+"alert_apply","50"
+"trade_apply","30"
+"orders_wait","15"
+"trades_wait","20"

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NewsML xmlns:html="http://www.w3.org/1999/xhtml">
+  <Catalog Href="http://www.londonstockexchange.com/newsml/mastercatalog.xml" />
+  <NewsEnvelope>
+    <DateAndTime>20170727T134653</DateAndTime>
+    <NewsProduct FormalName="CDP" />
+  </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+        <ProviderId>londonstockexchange.com</ProviderId>
+        <DateId>20170727</DateId>
+        <NewsItemId>snbsoxnpkt</NewsItemId>
+        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+        <PublicIdentifier>urn:newsml:londonstockexchange.com:20170419:8355K:1</PublicIdentifier>
+      </NewsIdentifier>
+    </Identification>
+    
+    <NewsManagement>
+      <NewsItemType FormalName="News" />
+      <FirstCreated>20170419T030300</FirstCreated>
+      <ThisRevisionCreated>20170419T050000+0100</ThisRevisionCreated>
+      <Status FormalName="Usable" />
+      <Urgency FormalName="4" />
+    </NewsManagement>
+    
+    <NewsComponent>
+      <TopicSet FormalName="CompanyRefs">
+        <Topic Duid="CM">
+        <TopicType FormalName="Company" />
+        <FormalName Scheme="FullName" />
+        <FormalName Scheme="Ticker" />
+        <FormalName Scheme="ISIN">ZZZZZZZZZZZZ</FormalName>
+        <FormalName Scheme="SEDOL" />
+        </Topic>
+      </TopicSet>
+      <Newslines>
+        <Headline>test news - no_ins_id_ISIN_ZZZZZZZZZZZZ</Headline>
+        <Dateline />
+      </Newslines>
+      
+      <AdministrativeMetadata>
+        <FileName />
+        <Source>
+          <Party FormalName="LSE" />
+        </Source>
+      </AdministrativeMetadata>
+      
+      <DescriptiveMetadata>
+        <Language FormalName="en" />
+        <SubjectCode />
+        <TopicOccurrence Topic="#CM" />
+      </DescriptiveMetadata>
+      
+      <Metadata>
+        <MetadataType FormalName="FSACategories" />
+        <Property FormalName="FSACategory" Value="TSM" />
+      </Metadata>
+      <ContentItem Duid="CI00001">
+        <MimeType FormalName="text/html" />
+        <DataContent>
+        
+<html:html lang="en" xml:lang="en"><html:head><html:title /></html:head><html:body><html:div>RNS Number : 8355K</html:div><html:div>RNS</html:div><html:div>27 April 2010</html:div><html:div> </html:div>This is the start of day message for the RNS system.<html:div> </html:div>END<html:div> </html:div><html:div> </html:div>TSMZDLBLBZFBBBB</html:body></html:html>
+
+        </DataContent>
+      </ContentItem>
+    </NewsComponent>
+  </NewsItem>
+</NewsML>

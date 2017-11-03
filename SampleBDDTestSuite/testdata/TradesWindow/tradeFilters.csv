@@ -1,0 +1,2 @@
+"Instrument","ExecType","TradeType","TradeSubType","BuyTrader","TradeOperator","SellTrader","BuyFirm","FirmOperator","SellFirm","BuyClient","ClientOperator","SellClient","TradePrice:From","TradePrice:To","TradeSize:From","TradeSize:To","CustomFilter","TradeLinkId","TradeReportId","Date:From","Date:To","Time:From","Time:To"
+"STAF1000","New","On Book","LC","STAF_USER1","","STAF_USER1","","","","","","","","","","","","","","01032016","05052016","103055999","223055999"

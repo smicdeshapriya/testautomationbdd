@@ -1,0 +1,3363 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<SquishReport xmlns="http://www.froglogic.com/XML2" version="2.2">
+<test name="suite_Surveillance">
+<prolog time="2017-03-02T09:20:09+05:30"/>
+<test name="tst_smoke_test">
+<prolog time="2017-03-02T09:20:09+05:30"/>
+<message line="5" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:10+05:30">
+<description>
+<![CDATA[ Start Feature ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+This feature includes smoke tests for CI integration
+]]>
+</description>
+</message>
+<message line="37" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\bdd_hooks.py" time="2017-03-02T09:20:10+05:30">
+<description>
+<![CDATA[
+SurveillanceWorkstation	C:\Users\user\Desktop\Releases	mapped
+]]>
+</description>
+</message>
+<message line="41" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\bdd_hooks.py" time="2017-03-02T09:20:10+05:30">
+<description>
+<![CDATA[ C:\Users\user\Desktop\Releases ]]>
+</description>
+</message>
+<message line="45" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\bdd_hooks.py" time="2017-03-02T09:20:11+05:30">
+<description>
+<![CDATA[ ]]>
+</description>
+</message>
+<message line="48" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\bdd_hooks.py" time="2017-03-02T09:20:13+05:30">
+<description>
+<![CDATA[ C:\Users\user\Desktop\Releases\qaTest\ ]]>
+</description>
+</message>
+<message line="11" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:14+05:30">
+<description>
+<![CDATA[ Start Scenario ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ LW001- user login to the application ]]>
+</description>
+</message>
+<message line="12" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:14+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:20:23+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="12" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:23+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="11" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:23+05:30">
+<description>
+<![CDATA[ End Scenario ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ LW001- user login to the application ]]>
+</description>
+</message>
+<message line="17" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:23+05:30">
+<description>
+<![CDATA[ Start Scenario ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+MWTS_002- Main Menu will visible for through out all the surveillance workstation windows
+]]>
+</description>
+</message>
+<message line="18" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:23+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:20:34+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="18" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:34+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="19" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:34+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="19" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:36+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="20" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:36+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on Main Menu and Select 'Orders' ]]>
+</description>
+</message>
+<message line="20" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:37+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on Main Menu and Select 'Orders' ]]>
+</description>
+</message>
+<message line="21" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:37+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<verification line="207" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:37+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<verification line="208" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:37+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<message line="21" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:37+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<message line="22" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:37+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on Main Menu and Select 'Trades' ]]>
+</description>
+</message>
+<message line="22" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:37+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on Main Menu and Select 'Trades' ]]>
+</description>
+</message>
+<message line="23" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:37+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<verification line="207" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:38+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<verification line="208" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:38+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<message line="23" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<message line="24" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user click on Main Menu and Select 'Order Book'
+]]>
+</description>
+</message>
+<message line="24" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user click on Main Menu and Select 'Order Book'
+]]>
+</description>
+</message>
+<message line="25" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<verification line="207" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:38+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<verification line="208" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:38+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<message line="25" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<message line="26" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on Main Menu and Select 'Alerts' ]]>
+</description>
+</message>
+<message line="26" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on Main Menu and Select 'Alerts' ]]>
+</description>
+</message>
+<message line="27" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:38+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<verification line="207" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:39+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<verification line="208" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\mainWin.py">
+<result type="PASS" time="2017-03-02T09:20:39+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<message line="27" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:39+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the Main File Menu bar should be visible ]]>
+</description>
+</message>
+<message line="17" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:39+05:30">
+<description>
+<![CDATA[ End Scenario ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+MWTS_002- Main Menu will visible for through out all the surveillance workstation windows
+]]>
+</description>
+</message>
+<message line="35" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:39+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+OWTS_006-Querying Orders by selecting multiple instruments,firms,trades,clients,side,..etc
+]]>
+</description>
+</message>
+<message line="53" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:39+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Instrument=INS001, FirmId=, TraderId=, ClientId=, Side=Buy,Sell, OrderType=, PriceFrom=, PriceTo=, SizeFrom=, SizeTo=, OrderId=, OrderStatus=New,Fill,Partial Fill,Expired,Rejected, Date:From=SDATE, Time:From=STIME, Date:To=EDATE, Time:To=ETIME, RowCount=50
+]]>
+</description>
+</message>
+<message line="36" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:39+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:20:47+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="36" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:47+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="37" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:47+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="37" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:50+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="38" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:50+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Orders' menu Item ]]>
+</description>
+</message>
+<message line="38" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:51+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Orders' menu Item ]]>
+</description>
+</message>
+<message line="40" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:51+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Clear button ]]>
+</description>
+</message>
+<message line="40" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:52+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Clear button ]]>
+</description>
+</message>
+<message line="41" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:52+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply orders filter values of 'INS001','','',''
+]]>
+</description>
+</message>
+<message line="41" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:53+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply orders filter values of 'INS001','','',''
+]]>
+</description>
+</message>
+<message line="42" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:53+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply side & type filter values of 'Buy,Sell',''
+]]>
+</description>
+</message>
+<message line="42" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply side & type filter values of 'Buy,Sell',''
+]]>
+</description>
+</message>
+<message line="43" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order price filter values of '','' ]]>
+</description>
+</message>
+<message line="43" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order price filter values of '','' ]]>
+</description>
+</message>
+<message line="44" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order size filter values of '','' ]]>
+</description>
+</message>
+<message line="44" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order size filter values of '','' ]]>
+</description>
+</message>
+<message line="45" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply orderId & status filter values of '','New,Fill,Partial Fill,Expired,Rejected'
+]]>
+</description>
+</message>
+<message line="45" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply orderId & status filter values of '','New,Fill,Partial Fill,Expired,Rejected'
+]]>
+</description>
+</message>
+<message line="46" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:54+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply order duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="46" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:55+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply order duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="47" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:20:55+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Apply button ]]>
+</description>
+</message>
+<message line="274" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py" time="2017-03-02T09:21:01+05:30">
+<description>
+<![CDATA[ Response time: 0.0 ]]>
+</description>
+</message>
+<message line="47" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:01+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Apply button ]]>
+</description>
+</message>
+<message line="48" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:01+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="48" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:05+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="49" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:05+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return '50' rows in query result in the orders pane
+]]>
+</description>
+</message>
+<message line="678" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py" time="2017-03-02T09:21:06+05:30">
+<description>
+<![CDATA[ 100 ]]>
+</description>
+</message>
+<message line="49" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:06+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return '50' rows in query result in the orders pane
+]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:21:06+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="35" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:06+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+OWTS_006-Querying Orders by selecting multiple instruments,firms,trades,clients,side,..etc
+]]>
+</description>
+</message>
+<message line="60" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:06+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ OWTS_019-Viewing Trades-TODO ]]>
+</description>
+</message>
+<message line="90" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:06+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Instrument=INS005, FirmId=, TraderId=, ClientId=, Side=, OrderType=, PriceFrom=, PriceTo=, SizeFrom=, SizeTo=, OrderId=, OrderStatus=Fill, Date:From=SDATE, Time:From=STIME, Date:To=EDATE, Time:To=ETIME, RowCount=20
+]]>
+</description>
+</message>
+<message line="62" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:06+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:21:14+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="62" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:14+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="63" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:14+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="63" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:16+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="64" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:16+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Orders' menu Item ]]>
+</description>
+</message>
+<message line="64" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Orders' menu Item ]]>
+</description>
+</message>
+<message line="66" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Clear button ]]>
+</description>
+</message>
+<message line="66" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:19+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Clear button ]]>
+</description>
+</message>
+<message line="67" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:19+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply orders filter values of 'INS005','','',''
+]]>
+</description>
+</message>
+<message line="67" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply orders filter values of 'INS005','','',''
+]]>
+</description>
+</message>
+<message line="68" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply side & type filter values of '','' ]]>
+</description>
+</message>
+<message line="68" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply side & type filter values of '','' ]]>
+</description>
+</message>
+<message line="69" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order price filter values of '','' ]]>
+</description>
+</message>
+<message line="69" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order price filter values of '','' ]]>
+</description>
+</message>
+<message line="70" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order size filter values of '','' ]]>
+</description>
+</message>
+<message line="70" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order size filter values of '','' ]]>
+</description>
+</message>
+<message line="71" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply orderId & status filter values of '','Fill'
+]]>
+</description>
+</message>
+<message line="71" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply orderId & status filter values of '','Fill'
+]]>
+</description>
+</message>
+<message line="72" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply order duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="72" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:21+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply order duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="73" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:21+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Apply button ]]>
+</description>
+</message>
+<message line="274" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py" time="2017-03-02T09:21:28+05:30">
+<description>
+<![CDATA[ Response time: 0.0 ]]>
+</description>
+</message>
+<message line="73" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:28+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Apply button ]]>
+</description>
+</message>
+<message line="74" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:28+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="74" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:32+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="75" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:32+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return '20' rows in query result in the orders pane
+]]>
+</description>
+</message>
+<message line="678" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py" time="2017-03-02T09:21:32+05:30">
+<description>
+<![CDATA[ 50 ]]>
+</description>
+</message>
+<message line="75" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:32+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return '20' rows in query result in the orders pane
+]]>
+</description>
+</message>
+<message line="76" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:32+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then user opens table settings view ]]>
+</description>
+</message>
+<message line="76" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:33+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then user opens table settings view ]]>
+</description>
+</message>
+<message line="77" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:33+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then user add 'trade_report_id' filter from table settings
+]]>
+</description>
+</message>
+<message line="77" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:35+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then user add 'trade_report_id' filter from table settings
+]]>
+</description>
+</message>
+<message line="78" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:35+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user find 'trade_report_id' column index ]]>
+</description>
+</message>
+<message line="78" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:35+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user find 'trade_report_id' column index ]]>
+</description>
+</message>
+<message line="79" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:35+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user select Orders record and copy Trade Report ID
+]]>
+</description>
+</message>
+<message line="79" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:36+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user select Orders record and copy Trade Report ID
+]]>
+</description>
+</message>
+<message line="80" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:36+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on order and select 'Veiw Trades' option
+]]>
+</description>
+</message>
+<message line="80" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:37+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on order and select 'Veiw Trades' option
+]]>
+</description>
+</message>
+<message line="81" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:37+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with 'Trades For Trade Report ID : TRID'
+]]>
+</description>
+</message>
+<verification line="2014" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py">
+<result type="PASS" time="2017-03-02T09:21:58+05:30">
+<description>Comparison</description>
+<description type="DETAILED">
+' Trade Report ID : VD6O80YDB1' and ' Trade Report ID : VD6O80YDB1' are equal
+</description>
+</result>
+</verification>
+<message line="81" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:58+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with 'Trades For Trade Report ID : TRID'
+]]>
+</description>
+</message>
+<message line="82" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:21:58+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="82" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="83" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return trades for the respective 'Trade Report ID'
+]]>
+</description>
+</message>
+<message line="2332" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ 50 ]]>
+</description>
+</message>
+<verification line="2339" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py">
+<result type="PASS" time="2017-03-02T09:22:02+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'VD6O80YDB1' and 'VD6O80YDB1' are equal</description>
+</result>
+</verification>
+<message line="83" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return trades for the respective 'Trade Report ID'
+]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="60" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ OWTS_019-Viewing Trades-TODO ]]>
+</description>
+</message>
+<message line="97" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ OWTS_020-Viewing Live Order Book ]]>
+</description>
+</message>
+<message line="120" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Instrument=INS001, FirmId=, TraderId=, ClientId=, Side=, OrderType=, PriceFrom=, PriceTo=, SizeFrom=, SizeTo=, OrderId=, OrderStatus=New, Date:From=SDATE, Time:From=STIME, Date:To=EDATE, Time:To=ETIME, RowCount=20
+]]>
+</description>
+</message>
+<message line="99" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:22:10+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="99" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:10+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="100" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:10+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="100" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:12+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="101" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:12+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Orders' menu Item ]]>
+</description>
+</message>
+<message line="101" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:13+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Orders' menu Item ]]>
+</description>
+</message>
+<message line="103" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:13+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Clear button ]]>
+</description>
+</message>
+<message line="103" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:14+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Clear button ]]>
+</description>
+</message>
+<message line="104" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:14+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply orders filter values of 'INS001','','',''
+]]>
+</description>
+</message>
+<message line="104" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply orders filter values of 'INS001','','',''
+]]>
+</description>
+</message>
+<message line="105" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply side & type filter values of '','' ]]>
+</description>
+</message>
+<message line="105" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply side & type filter values of '','' ]]>
+</description>
+</message>
+<message line="106" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order price filter values of '','' ]]>
+</description>
+</message>
+<message line="106" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order price filter values of '','' ]]>
+</description>
+</message>
+<message line="107" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order size filter values of '','' ]]>
+</description>
+</message>
+<message line="107" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply order size filter values of '','' ]]>
+</description>
+</message>
+<message line="108" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:15+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply orderId & status filter values of '','New'
+]]>
+</description>
+</message>
+<message line="108" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:16+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply orderId & status filter values of '','New'
+]]>
+</description>
+</message>
+<message line="109" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:16+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply order duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="109" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply order duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="110" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Apply button ]]>
+</description>
+</message>
+<message line="274" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py" time="2017-03-02T09:22:23+05:30">
+<description>
+<![CDATA[ Response time: 0.0 ]]>
+</description>
+</message>
+<message line="110" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:23+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Apply button ]]>
+</description>
+</message>
+<message line="111" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:23+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="111" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:27+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="113" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:27+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on order and select 'Live Order Book' option
+]]>
+</description>
+</message>
+<message line="113" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:28+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on order and select 'Live Order Book' option
+]]>
+</description>
+</message>
+<message line="114" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:28+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with Live Order Book For : 'INS001'
+]]>
+</description>
+</message>
+<verification line="2031" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\ordersWin.py">
+<result type="PASS" time="2017-03-02T09:22:29+05:30">
+<description>Comparison</description>
+<description type="DETAILED">
+' Order Book for Instrument ID : INSDRP_1' and ' Order Book for Instrument ID : INSDRP_1' are equal
+</description>
+</result>
+</verification>
+<message line="114" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with Live Order Book For : 'INS001'
+]]>
+</description>
+</message>
+<message line="115" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And system should return respective Live Orders for the 'INS001'
+]]>
+</description>
+</message>
+<verification line="1419" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py">
+<result type="PASS" time="2017-03-02T09:22:29+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'INSDRP_1' and 'INSDRP_1' are equal</description>
+</result>
+</verification>
+<message line="115" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And system should return respective Live Orders for the 'INS001'
+]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="97" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ OWTS_020-Viewing Live Order Book ]]>
+</description>
+</message>
+<message line="128" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ TWTS_018-Viewing Trade History ]]>
+</description>
+</message>
+<message line="155" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Instrument=INS005, ExecType=Fill, TradeType=, TradeSubType=, BuyTrader=, TradeOperator=, SellTrader=, BuyFirm=, FirmOperator=, SellFirm=, BuyClient=, ClientOperator=, SellClient=, TradePrice:From=, TradePrice:To=, TradeSize:From=, TradeSize:To=, CustomFilter=, TradeLinkId=, TradeReportId=, Date:From=SDATE, Time:From=STIME, Date:To=EDATE, Time:To=ETIME, RowCount=100
+]]>
+</description>
+</message>
+<message line="129" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:29+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:22:37+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="129" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:37+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="130" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:37+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="130" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:39+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="131" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:39+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Trades' menu Item ]]>
+</description>
+</message>
+<message line="131" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:40+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Trades' menu Item ]]>
+</description>
+</message>
+<message line="133" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:40+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on trade filter Clear button ]]>
+</description>
+</message>
+<message line="133" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:42+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on trade filter Clear button ]]>
+</description>
+</message>
+<message line="134" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:42+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply instrument filter values of 'INS005','Fill','',''
+]]>
+</description>
+</message>
+<message line="134" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply instrument filter values of 'INS005','Fill','',''
+]]>
+</description>
+</message>
+<message line="135" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trader filter values of '','','' ]]>
+</description>
+</message>
+<message line="135" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trader filter values of '','','' ]]>
+</description>
+</message>
+<message line="136" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply firm filter values of '','','' ]]>
+</description>
+</message>
+<message line="136" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply firm filter values of '','','' ]]>
+</description>
+</message>
+<message line="137" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply client filter values of '','','' ]]>
+</description>
+</message>
+<message line="137" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply client filter values of '','','' ]]>
+</description>
+</message>
+<message line="138" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:43+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade price filter values of '','' ]]>
+</description>
+</message>
+<message line="138" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade price filter values of '','' ]]>
+</description>
+</message>
+<message line="139" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade size filter values of '','' ]]>
+</description>
+</message>
+<message line="139" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade size filter values of '','' ]]>
+</description>
+</message>
+<message line="140" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply custom filter values of '','','' ]]>
+</description>
+</message>
+<message line="140" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply custom filter values of '','','' ]]>
+</description>
+</message>
+<message line="141" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="267" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ 01032017 ]]>
+</description>
+</message>
+<message line="268" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ 2122 ]]>
+</description>
+</message>
+<message line="141" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="142" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:44+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Trade filter Apply button ]]>
+</description>
+</message>
+<message line="376" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:22:51+05:30">
+<description>
+<![CDATA[ Response time: 0.0 ]]>
+</description>
+</message>
+<message line="142" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:51+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Trade filter Apply button ]]>
+</description>
+</message>
+<message line="143" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:51+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="143" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:55+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="144" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:55+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return query result in the trades pane
+]]>
+</description>
+</message>
+<message line="387" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:22:55+05:30">
+<description>
+<![CDATA[ 25 ]]>
+</description>
+</message>
+<message line="144" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:55+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return query result in the trades pane
+]]>
+</description>
+</message>
+<message line="145" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:55+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user adds required filter fields from table settings
+]]>
+</description>
+</message>
+<message line="145" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:59+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user adds required filter fields from table settings
+]]>
+</description>
+</message>
+<message line="146" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:22:59+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on record and select 'View History'
+]]>
+</description>
+</message>
+<message line="146" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:00+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on record and select 'View History'
+]]>
+</description>
+</message>
+<message line="147" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:00+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user select an Trade Report Link ID and drop into trade filter property
+]]>
+</description>
+</message>
+<message line="147" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user select an Trade Report Link ID and drop into trade filter property
+]]>
+</description>
+</message>
+<message line="148" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then trade history tab should open with the name of 'History : TradeReportID'
+]]>
+</description>
+</message>
+<verification line="886" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py">
+<result type="PASS" time="2017-03-02T09:23:02+05:30">
+<description>Comparison</description>
+<description type="DETAILED">
+' History : VD6O80YDB1' and ' History : VD6O80YDB1' are equal
+</description>
+</result>
+</verification>
+<message line="148" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then trade history tab should open with the name of 'History : TradeReportID'
+]]>
+</description>
+</message>
+<message line="149" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user points cursor to tab name tooltip should appear with full tab name
+]]>
+</description>
+</message>
+<message line="149" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user points cursor to tab name tooltip should appear with full tab name
+]]>
+</description>
+</message>
+<message line="150" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then history tab should contain history results ]]>
+</description>
+</message>
+<message line="150" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then history tab should contain history results ]]>
+</description>
+</message>
+<message line="151" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user export queried Trade history result into 'tradeHistoryResult' csv file in the 'qaTest' folder
+]]>
+</description>
+</message>
+<verification line="181" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:23:19+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<message line="151" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:19+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user export queried Trade history result into 'tradeHistoryResult' csv file in the 'qaTest' folder
+]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:23:19+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="128" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:19+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ TWTS_018-Viewing Trade History ]]>
+</description>
+</message>
+<message line="160" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:19+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ TWTS_020-Viewing Orders ]]>
+</description>
+</message>
+<message line="187" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:19+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Instrument=INS005, ExecType=Fill, TradeType=, TradeSubType=, BuyTrader=, TradeOperator=, SellTrader=, BuyFirm=, FirmOperator=, SellFirm=, BuyClient=, ClientOperator=, SellClient=, TradePrice:From=, TradePrice:To=, TradeSize:From=, TradeSize:To=, CustomFilter=, TradeLinkId=, TradeReportId=, Date:From=SDATE, Time:From=STIME, Date:To=EDATE, Time:To=ETIME, RowCount=2
+]]>
+</description>
+</message>
+<message line="161" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:19+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:23:27+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="161" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:27+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="162" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:27+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="162" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:30+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="163" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:30+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Trades' menu Item ]]>
+</description>
+</message>
+<message line="163" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:31+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Trades' menu Item ]]>
+</description>
+</message>
+<message line="165" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:31+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on trade filter Clear button ]]>
+</description>
+</message>
+<message line="165" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:32+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on trade filter Clear button ]]>
+</description>
+</message>
+<message line="166" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:32+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply instrument filter values of 'INS005','Fill','',''
+]]>
+</description>
+</message>
+<message line="166" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:33+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply instrument filter values of 'INS005','Fill','',''
+]]>
+</description>
+</message>
+<message line="167" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:33+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trader filter values of '','','' ]]>
+</description>
+</message>
+<message line="167" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trader filter values of '','','' ]]>
+</description>
+</message>
+<message line="168" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply firm filter values of '','','' ]]>
+</description>
+</message>
+<message line="168" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply firm filter values of '','','' ]]>
+</description>
+</message>
+<message line="169" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply client filter values of '','','' ]]>
+</description>
+</message>
+<message line="169" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply client filter values of '','','' ]]>
+</description>
+</message>
+<message line="170" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade price filter values of '','' ]]>
+</description>
+</message>
+<message line="170" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade price filter values of '','' ]]>
+</description>
+</message>
+<message line="171" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade size filter values of '','' ]]>
+</description>
+</message>
+<message line="171" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade size filter values of '','' ]]>
+</description>
+</message>
+<message line="172" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply custom filter values of '','','' ]]>
+</description>
+</message>
+<message line="172" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply custom filter values of '','','' ]]>
+</description>
+</message>
+<message line="173" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="267" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ 01032017 ]]>
+</description>
+</message>
+<message line="268" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:23:34+05:30">
+<description>
+<![CDATA[ 2123 ]]>
+</description>
+</message>
+<message line="173" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:35+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="174" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:35+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Trade filter Apply button ]]>
+</description>
+</message>
+<message line="376" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:23:41+05:30">
+<description>
+<![CDATA[ Response time: 0.0 ]]>
+</description>
+</message>
+<message line="174" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:41+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Trade filter Apply button ]]>
+</description>
+</message>
+<message line="175" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:41+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="175" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:45+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="176" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:45+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return query result in the trades pane
+]]>
+</description>
+</message>
+<message line="387" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:23:45+05:30">
+<description>
+<![CDATA[ 25 ]]>
+</description>
+</message>
+<message line="176" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:45+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return query result in the trades pane
+]]>
+</description>
+</message>
+<message line="177" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:45+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user adds required filter fields from table settings
+]]>
+</description>
+</message>
+<message line="177" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:49+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user adds required filter fields from table settings
+]]>
+</description>
+</message>
+<message line="178" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:49+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user select an Trade Report ID and drop into trade filter property
+]]>
+</description>
+</message>
+<message line="178" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:52+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user select an Trade Report ID and drop into trade filter property
+]]>
+</description>
+</message>
+<message line="179" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:52+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on order and select 'Veiw Orders' option
+]]>
+</description>
+</message>
+<message line="179" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:53+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on order and select 'Veiw Orders' option
+]]>
+</description>
+</message>
+<message line="180" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:53+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="180" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:57+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When there are no system errors ]]>
+</description>
+</message>
+<message line="181" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:23:57+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with 'Orders For Trade Report ID : TRID'
+]]>
+</description>
+</message>
+<verification line="988" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py">
+<result type="PASS" time="2017-03-02T09:23:57+05:30">
+<description>Comparison</description>
+<description type="DETAILED">
+' Orders for Trade Report ID : VD6O80YDB1' and ' Orders for Trade Report ID : VD6O80YDB1' are equal
+</description>
+</result>
+</verification>
+<message line="181" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with 'Orders For Trade Report ID : TRID'
+]]>
+</description>
+</message>
+<message line="182" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And system should return respective orders for the trade
+]]>
+</description>
+</message>
+<verification line="950" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py">
+<result type="PASS" time="2017-03-02T09:24:02+05:30">
+<description>Comparison</description>
+<description type="DETAILED">
+' Orders for Trade Report ID : VD6O80YDB1' and ' Orders for Trade Report ID : VD6O80YDB1' are equal
+</description>
+</result>
+</verification>
+<message line="182" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And system should return respective orders for the trade
+]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="160" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ TWTS_020-Viewing Orders ]]>
+</description>
+</message>
+<message line="193" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ TWTS_021-Viewing Live Order Book ]]>
+</description>
+</message>
+<message line="217" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Instrument=INS005, ExecType=Fill, TradeType=, TradeSubType=, BuyTrader=, TradeOperator=, SellTrader=, BuyFirm=, FirmOperator=, SellFirm=, BuyClient=, ClientOperator=, SellClient=, TradePrice:From=, TradePrice:To=, TradeSize:From=, TradeSize:To=, CustomFilter=, TradeLinkId=, TradeReportId=, Date:From=SDATE, Time:From=STIME, Date:To=EDATE, Time:To=ETIME, RowCount=5
+]]>
+</description>
+</message>
+<message line="194" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:02+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:24:10+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="194" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:10+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="195" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:10+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="195" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:13+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="196" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:13+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Trades' menu Item ]]>
+</description>
+</message>
+<message line="196" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:14+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Trades' menu Item ]]>
+</description>
+</message>
+<message line="198" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:14+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on trade filter Clear button ]]>
+</description>
+</message>
+<message line="198" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:15+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on trade filter Clear button ]]>
+</description>
+</message>
+<message line="199" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:15+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply instrument filter values of 'INS005','Fill','',''
+]]>
+</description>
+</message>
+<message line="199" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:16+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user apply instrument filter values of 'INS005','Fill','',''
+]]>
+</description>
+</message>
+<message line="200" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:16+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trader filter values of '','','' ]]>
+</description>
+</message>
+<message line="200" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trader filter values of '','','' ]]>
+</description>
+</message>
+<message line="201" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply firm filter values of '','','' ]]>
+</description>
+</message>
+<message line="201" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply firm filter values of '','','' ]]>
+</description>
+</message>
+<message line="202" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply client filter values of '','','' ]]>
+</description>
+</message>
+<message line="202" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply client filter values of '','','' ]]>
+</description>
+</message>
+<message line="203" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade price filter values of '','' ]]>
+</description>
+</message>
+<message line="203" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade price filter values of '','' ]]>
+</description>
+</message>
+<message line="204" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade size filter values of '','' ]]>
+</description>
+</message>
+<message line="204" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply trade size filter values of '','' ]]>
+</description>
+</message>
+<message line="205" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply custom filter values of '','','' ]]>
+</description>
+</message>
+<message line="205" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply custom filter values of '','','' ]]>
+</description>
+</message>
+<message line="206" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="267" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ 01032017 ]]>
+</description>
+</message>
+<message line="268" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:24:17+05:30">
+<description>
+<![CDATA[ 2124 ]]>
+</description>
+</message>
+<message line="206" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:18+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration filter values of 'SDATE','STIME','EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="207" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:18+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Trade filter Apply button ]]>
+</description>
+</message>
+<message line="376" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:24:24+05:30">
+<description>
+<![CDATA[ Response time: 0.0 ]]>
+</description>
+</message>
+<message line="207" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:24+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on Trade filter Apply button ]]>
+</description>
+</message>
+<message line="208" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:24+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return query result in the trades pane
+]]>
+</description>
+</message>
+<message line="387" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py" time="2017-03-02T09:24:24+05:30">
+<description>
+<![CDATA[ 25 ]]>
+</description>
+</message>
+<message line="208" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:24+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then system should return query result in the trades pane
+]]>
+</description>
+</message>
+<message line="209" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:24+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user adds required filter fields from table settings
+]]>
+</description>
+</message>
+<message line="209" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:28+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user adds required filter fields from table settings
+]]>
+</description>
+</message>
+<message line="210" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:28+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on Trade and select 'Live Order Book' option
+]]>
+</description>
+</message>
+<message line="210" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:29+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user right click on Trade and select 'Live Order Book' option
+]]>
+</description>
+</message>
+<message line="211" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:29+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with Live Orders For 'INS005'
+]]>
+</description>
+</message>
+<verification line="1410" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py">
+<result type="PASS" time="2017-03-02T09:24:50+05:30">
+<description>Comparison</description>
+<description type="DETAILED">
+' Order Book for Instrument ID : INSCR87_01' and ' Order Book for Instrument ID : INSCR87_01' are equal
+</description>
+</result>
+</verification>
+<message line="211" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:50+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then new tab should open with Live Orders For 'INS005'
+]]>
+</description>
+</message>
+<message line="212" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:50+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And system should return respective Live Orders for the 'INS005'
+]]>
+</description>
+</message>
+<verification line="1419" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\tradesWin.py">
+<result type="PASS" time="2017-03-02T09:24:50+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'INSCR87_01' and 'INSCR87_01' are equal</description>
+</result>
+</verification>
+<message line="212" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:50+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And system should return respective Live Orders for the 'INS005'
+]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:24:50+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="193" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:50+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ TWTS_021-Viewing Live Order Book ]]>
+</description>
+</message>
+<message line="223" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:50+05:30">
+<description>
+<![CDATA[ Start Scenario ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+LOBTS_002-Primary Querying Functionality-Typing in a symbol (with the support of auto-complete ) and press enter
+]]>
+</description>
+</message>
+<message line="226" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:50+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Given user login to the 'SurveillanceWorkstation' ]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:24:58+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="226" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:58+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Given user login to the 'SurveillanceWorkstation' ]]>
+</description>
+</message>
+<message line="227" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:24:58+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="227" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:00+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="228" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:00+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Order Book' menu Item ]]>
+</description>
+</message>
+<message line="228" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:01+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user click on 'Order Book' menu Item ]]>
+</description>
+</message>
+<message line="229" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:01+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then Live Order Book Tab should open ]]>
+</description>
+</message>
+<verification line="59" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\orderBookWin.py">
+<result type="PASS" time="2017-03-02T09:25:01+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'TabItem' and 'TabItem' are equal</description>
+</result>
+</verification>
+<verification line="60" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\orderBookWin.py">
+<result type="PASS" time="2017-03-02T09:25:01+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Order Book' and 'Order Book' are equal</description>
+</result>
+</verification>
+<message line="229" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:01+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then Live Order Book Tab should open ]]>
+</description>
+</message>
+<message line="230" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:01+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user insert an Instrument and Press enter button
+]]>
+</description>
+</message>
+<message line="71" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\orderBookWin.py" time="2017-03-02T09:25:01+05:30">
+<description>
+<![CDATA[ OB_INS01 ]]>
+</description>
+</message>
+<verification line="78" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\orderBookWin.py">
+<result type="PASS" time="2017-03-02T09:25:02+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'INSDRP_1' and 'INSDRP_1' are equal</description>
+</result>
+</verification>
+<message line="71" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\orderBookWin.py" time="2017-03-02T09:25:02+05:30">
+<description>
+<![CDATA[ OB_INS02 ]]>
+</description>
+</message>
+<verification line="78" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\orderBookWin.py">
+<result type="PASS" time="2017-03-02T09:25:03+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'INSDRP_2' and 'INSDRP_2' are equal</description>
+</result>
+</verification>
+<message line="230" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:03+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user insert an Instrument and Press enter button
+]]>
+</description>
+</message>
+<message line="223" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:03+05:30">
+<description>
+<![CDATA[ End Scenario ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+LOBTS_002-Primary Querying Functionality-Typing in a symbol (with the support of auto-complete ) and press enter
+]]>
+</description>
+</message>
+<message line="238" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:03+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+AMQURY_TS_0001-Basic Querying and Filters for tabular view
+]]>
+</description>
+</message>
+<message line="259" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:03+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+alertName=, fromDate=SDATE, fromTime=STIME, toDate=EDATE, toTime=ETIME, assetClass=, symbol=, brokerID=, traderID=, clientID=, status=, assignedUser=, label=, fromScore=, toScore=, count=, ActualAlerts=ActualAlerts, ExpectedAlerts=ExpectedAlerts
+]]>
+</description>
+</message>
+<message line="240" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:03+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:25:14+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="240" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:14+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Given user login to the 'SurveillanceWorkstation -platformtheme none'
+]]>
+</description>
+</message>
+<message line="241" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:14+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="241" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:16+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="242" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:16+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user checks the Alert Manager tile in workstation
+]]>
+</description>
+</message>
+<message line="11" type="WARNING" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py" time="2017-03-02T09:25:16+05:30">
+<description>
+<![CDATA[ SS added to compare the Alert Manager tile ]]>
+</description>
+</message>
+<verification line="13" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py">
+<result type="PASS" time="2017-03-02T09:25:17+05:30">
+<description>
+Comparison (Screenshot in "C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/squish/webreport/data\suite_Surveillance\tst_smoke_test\passedImages\passed_1.png")
+</description>
+<description type="DETAILED">'1' and '1' are equal</description>
+<description type="file">
+C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/squish/webreport/data\suite_Surveillance\tst_smoke_test\passedImages\passed_1.png
+</description>
+<description type="DETAILED">Get the ss to compare the Alert View tile</description>
+</result>
+</verification>
+<message line="242" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:17+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user checks the Alert Manager tile in workstation
+]]>
+</description>
+</message>
+<message line="243" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:17+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on 'Alert Manager' Icon ]]>
+</description>
+</message>
+<verification line="26" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py">
+<result type="PASS" time="2017-03-02T09:25:19+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'TabItem' and 'TabItem' are equal</description>
+</result>
+</verification>
+<verification line="27" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py">
+<result type="PASS" time="2017-03-02T09:25:19+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'0' and '0' are equal</description>
+</result>
+</verification>
+<verification line="28" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py">
+<result type="PASS" time="2017-03-02T09:25:19+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Alert View' and 'Alert View' are equal</description>
+</result>
+</verification>
+<message line="243" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:19+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user click on 'Alert Manager' Icon ]]>
+</description>
+</message>
+<message line="244" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:19+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then user should navigate to 'Alert Manager' ]]>
+</description>
+</message>
+<verification line="32" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py">
+<result type="PASS" time="2017-03-02T09:25:19+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<verification line="33" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py">
+<result type="PASS" time="2017-03-02T09:25:19+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Alert View' and 'Alert View' are equal</description>
+</result>
+</verification>
+<message line="244" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:19+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then user should navigate to 'Alert Manager' ]]>
+</description>
+</message>
+<message line="245" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:19+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user apply alert name '' ]]>
+</description>
+</message>
+<message line="245" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:19+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user apply alert name '' ]]>
+</description>
+</message>
+<message line="246" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:19+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration 'SDATE','STIME' and 'EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="246" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply duration 'SDATE','STIME' and 'EDATE','ETIME'
+]]>
+</description>
+</message>
+<message line="247" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply values for '','','','','' ]]>
+</description>
+</message>
+<message line="247" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply values for '','','','','' ]]>
+</description>
+</message>
+<message line="248" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply status of '' and assigned user of '' and lable of ''
+]]>
+</description>
+</message>
+<message line="248" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+And user apply status of '' and assigned user of '' and lable of ''
+]]>
+</description>
+</message>
+<message line="249" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply scores of '' and '' ]]>
+</description>
+</message>
+<message line="249" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user apply scores of '' and '' ]]>
+</description>
+</message>
+<message line="250" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:20+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user clicks on 'Query' button ]]>
+</description>
+</message>
+<message line="759" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ Response time: 0.0 ]]>
+</description>
+</message>
+<message line="250" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user clicks on 'Query' button ]]>
+</description>
+</message>
+<message line="251" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then respective '' alerts should be displayed in the tabular view
+]]>
+</description>
+</message>
+<message line="17" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ 2969 ]]>
+</description>
+</message>
+<verification line="939" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\alertWin.py">
+<result type="PASS" time="2017-03-02T09:25:28+05:30">
+<description>Verified</description>
+<description type="DETAILED">True expression</description>
+<description type="DETAILED">Alerts Available</description>
+</result>
+</verification>
+<message line="251" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then respective '' alerts should be displayed in the tabular view
+]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="238" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+AMQURY_TS_0001-Basic Querying and Filters for tabular view
+]]>
+</description>
+</message>
+<message line="265" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ Start Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ SGTS_004-Query for graph by typing instrument/s ]]>
+</description>
+</message>
+<message line="280" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ Start Example ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Instrument=INS016, FromDate=FDATE, FromTime=000000000, ToDate=235959999, ToTime=TTIME
+]]>
+</description>
+</message>
+<message line="267" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:28+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Given user login to the 'SurveillanceWorkstation' ]]>
+</description>
+</message>
+<verification line="248" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\scripts\commonMethods.py">
+<result type="PASS" time="2017-03-02T09:25:37+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Indika' and 'Indika' are equal</description>
+</result>
+</verification>
+<message line="267" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:37+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Given user login to the 'SurveillanceWorkstation' ]]>
+</description>
+</message>
+<message line="268" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:37+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="268" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:39+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user navigated to Surveillance main window ]]>
+</description>
+</message>
+<message line="269" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:39+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user close all open tabs ]]>
+</description>
+</message>
+<message line="646" type="LOG" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\loginWin.py" time="2017-03-02T09:25:41+05:30">
+<description>
+<![CDATA[ No open tabs ...! ]]>
+</description>
+</message>
+<message line="269" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:41+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user close all open tabs ]]>
+</description>
+</message>
+<message line="270" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:41+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user toggle off info pane ]]>
+</description>
+</message>
+<message line="270" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:41+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user toggle off info pane ]]>
+</description>
+</message>
+<message line="271" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:41+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user clicks on 'Bid Offer View' icon ]]>
+</description>
+</message>
+<message line="271" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:42+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ When user clicks on 'Bid Offer View' icon ]]>
+</description>
+</message>
+<message line="272" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:42+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then user should navigate to 'Bid Offer View' tab window
+]]>
+</description>
+</message>
+<verification line="682" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\loginWin.py">
+<result type="PASS" time="2017-03-02T09:25:42+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'TabItem' and 'TabItem' are equal</description>
+</result>
+</verification>
+<verification line="683" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\loginWin.py">
+<result type="PASS" time="2017-03-02T09:25:42+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'Bid Offer View' and 'Bid Offer View' are equal</description>
+</result>
+</verification>
+<verification line="684" type="" name="" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\loginWin.py">
+<result type="PASS" time="2017-03-02T09:25:42+05:30">
+<description>Comparison</description>
+<description type="DETAILED">'True' and 'True' are equal</description>
+</result>
+</verification>
+<message line="272" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:42+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+Then user should navigate to 'Bid Offer View' tab window
+]]>
+</description>
+</message>
+<message line="273" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:42+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user query for a single Instrument by typing 'INS016','FDATE','000000000','235959999','TTIME'
+]]>
+</description>
+</message>
+<message line="273" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:43+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+When user query for a single Instrument by typing 'INS016','FDATE','000000000','235959999','TTIME'
+]]>
+</description>
+</message>
+<message line="274" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:25:43+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user clicks on graph query button ]]>
+</description>
+</message>
+<message line="274" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:26:08+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ And user clicks on graph query button ]]>
+</description>
+</message>
+<message line="275" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:26:08+05:30">
+<description>
+<![CDATA[ Start Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the graph should drawn for the given period ]]>
+</description>
+</message>
+<message line="850" type="WARNING" file="C:\Users\user\bamboo-agent-home\xml-data\build-dir\SURV5-SS-SMOKE\Product\suite_Surveillance\shared\steps\loginWin.py" time="2017-03-02T09:26:08+05:30">
+<description>
+<![CDATA[ Checks only for crashes ]]>
+</description>
+</message>
+<message line="275" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:26:08+05:30">
+<description>
+<![CDATA[ End Step ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ Then the graph should drawn for the given period ]]>
+</description>
+</message>
+<message type="LOG" time="2017-03-02T09:26:09+05:30">
+<description>
+<![CDATA[ End Example ]]>
+</description>
+</message>
+<message line="265" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:26:09+05:30">
+<description>
+<![CDATA[ End Scenario Outline ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[ SGTS_004-Query for graph by typing instrument/s ]]>
+</description>
+</message>
+<message line="5" type="LOG" file="C:/Users/user/bamboo-agent-home/xml-data/build-dir/SURV5-SS-SMOKE/Product/suite_Surveillance/tst_smoke_test/test.feature" time="2017-03-02T09:26:09+05:30">
+<description>
+<![CDATA[ End Feature ]]>
+</description>
+<description type="DETAILED">
+<![CDATA[
+This feature includes smoke tests for CI integration
+]]>
+</description>
+</message>
+<epilog time="2017-03-02T09:26:09+05:30"/>
+</test>
+<epilog time="2017-03-02T09:26:09+05:30"/>
+</test>
+</SquishReport>

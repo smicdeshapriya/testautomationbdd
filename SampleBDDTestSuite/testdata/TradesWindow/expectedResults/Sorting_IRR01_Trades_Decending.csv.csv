@@ -1,0 +1,6 @@
+"instrument_id","trade_report_id","trade_status","execution_type","executed_qty","executed_value","buy_broker_id","sell_broker_id","buy_trader_id","sell_trader_id","buy_client_id","sell_client_id","buy_order_id","sell_order_id","aggressor_side","transact_time"
+"IRR01","VGCLUH5U75","New","Fill","100","1,700.00","QA3","QA3","PTQA33921","PTQA33921","QA3_ ","QA3_ ","00Sr747DGn9h","00Sr747DGn9k","2","2016/10/03-11:44:21.781"
+"IRR01","VGCLUH5U74","New","Fill","200","1,690.00","QA3","QA3","PTQA33921","PTQA33921","QA3_ ","QA3_ ","00Sr747DGn9h","00Sr747DGn9g","1","2016/10/03-11:44:18.703"
+"IRR01","VGCLUH5U71","New","Fill","200","1,600.50","QA3","QA3","PTQA33921","PTQA33921","QA3_ ","QA3_ ","00Sr747DGn9X","00Sr747DGn9Z","2","2016/10/03-11:44:10.556"
+"IRR01","VGCLUH5U73","New","Fill","1,000","1,530.00","QA3","QA3","PTQA33921","PTQA33921","QA3_ ","QA3_ ","00Sr747DGn9a","00Sr747DGn9d","2","2016/10/03-11:44:14.621"
+"IRR01","VGCLUH5U72","New","Fill","800","1,525.50","QA3","QA3","PTQA33921","PTQA33921","QA3_ ","QA3_ ","00Sr747DGn9a","00Sr747DGn9Z","1","2016/10/03-11:44:11.586"

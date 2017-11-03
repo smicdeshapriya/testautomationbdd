@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML>
+  <Catalog Href="http://www.londonstockexchange.com/newsml/mastercatalog.xml"/>
+  <NewsEnvelope>
+    <DateAndTime>20170419T064000</DateAndTime>
+    <NewsProduct FormalName="CDP"/>
+  </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+        <ProviderId>londonstockexchange.com</ProviderId>
+        <DateId>20170419</DateId>
+        <NewsItemId>j1111</NewsItemId>
+        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+        <PublicIdentifier>urn:newsml:londonstockexchange.com:20170419:8355K:1</PublicIdentifier>
+      </NewsIdentifier>
+    </Identification>
+    
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+      <FirstCreated>20170419T030300</FirstCreated>
+      <ThisRevisionCreated>20170419T050000+0100</ThisRevisionCreated>
+      <Status FormalName="Usable"/>
+      <Urgency FormalName="4"/>
+    </NewsManagement>
+    
+    <NewsComponent>
+      <TopicSet FormalName="CompanyRefs">
+        <Topic Duid="CM">
+        <TopicType FormalName="Company"/>
+        <FormalName Scheme="FullName"></FormalName>
+        <FormalName Scheme="Ticker">INSCR1802</FormalName>
+        <FormalName Scheme="ISIN">INE1001801</FormalName>
+        <FormalName Scheme="SEDOL"></FormalName>
+        </Topic>
+      </TopicSet>
+      <Newslines>
+        <Headline>block_with_ins</Headline>
+        <Dateline></Dateline>
+      </Newslines>
+      
+      <AdministrativeMetadata>
+        <FileName></FileName>
+        <Source>
+          <Party FormalName="LSE"/>
+        </Source>
+      </AdministrativeMetadata>
+      
+      <DescriptiveMetadata>
+        <Language FormalName="en"/>
+        <SubjectCode />
+        <TopicOccurrence Topic="#CM"/>
+      </DescriptiveMetadata>
+      
+      <Metadata>
+        <MetadataType FormalName="FSACategories" />
+        <Property FormalName="FSACategory" Value="TSM" />
+      </Metadata>
+      <ContentItem Duid="CI00001">
+        <MimeType FormalName="text/html"/>
+        <DataContent>
+        
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title></title></head><body><div>RNS Number : 8355K</div><div>RNS</div><div>27 April 2010</div><div>&#160;</div>This is the start of day message for the RNS system.<div>&#160;</div>END<div>&#160;</div><div>&#160;</div>TSMZDLBLBZFBBBB</body></html>
+
+        </DataContent>
+      </ContentItem>
+    </NewsComponent>
+  </NewsItem>
+</NewsML>

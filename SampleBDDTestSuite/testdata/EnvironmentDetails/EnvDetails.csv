@@ -1,0 +1,10 @@
+EnvName,FED,IPSelMethod,CertFile,IP,Port
+surv5ci,SurveillanceManager,Sequential,,172.25.76.217,10443
+s5surv22,SurveillanceManager,Sequential,,172.25.72.112,10443
+s5surv23,SurveillanceManager,Sequential,,172.25.72.115,10443
+s5gcov,SurveillanceManager,Sequential,,172.25.43.42,20443
+seatrial,SurveillanceManager,Sequential,,172.25.33.11,14443
+s5sup1,SurveillanceManager,Sequential,,172.25.70.240,10443
+s5surv6,SurveillanceManager,Sequential,,172.25.76.128,10443
+s5surv5,SurveillanceManager,Sequential,,172.25.76.127 ,10443
+seatrial2,SurveillanceManager,Sequential,,172.25.33.11,14443
